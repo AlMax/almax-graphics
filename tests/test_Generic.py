@@ -1,4 +1,4 @@
 import pytest;
 
-def GenericTest():
+def test_true():
     assert True;
