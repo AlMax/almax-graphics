@@ -14,7 +14,7 @@ optional_dependencies = {
 }
 
 setup(
-    name='almax_common',
+    name='almax_graphics',
     version=versionFile,
     description='Library with my most used Classes and Methods',
     long_description=readMe,
